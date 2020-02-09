@@ -27,8 +27,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.20135617"
-     inkscape:cx="1710.5817"
-     inkscape:cy="1459.2168"
+     inkscape:cx="1329.713"
+     inkscape:cy="1386.0543"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -253,8 +253,7 @@
      transform="translate(0,541.86667)"
      inkscape:label="icons"
      id="layer2"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <text
        id="text6302"
        y="474.13336"
@@ -480,10 +479,10 @@
           </g>
         </g>
         <path
-           sodipodi:nodetypes="ccc"
+           sodipodi:nodetypes="cccc"
            inkscape:connector-curvature="0"
            id="path2427"
-           d="m 3920.0668,42.333339 v 33.866667 l -16.9334,8.466666"
+           d="m 3903.1334,84.666672 16.9334,-8.466666 V 42.333339 c 8.4667,2.32e-4 8.4667,-8.466434 16.9333,2.32e-4"
            style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#005c94;stroke-width:6.35000086;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <path
            sodipodi:nodetypes="ccc"
