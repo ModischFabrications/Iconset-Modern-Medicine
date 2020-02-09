@@ -1,4 +1,4 @@
-# Iconsets
+# Modern Medicine (Iconset)
 Homework for a course on graphical design. My custom theme is medical icons. 
 
 ![Showcase](https://github.com/ModischFabrications/Iconset-Modern-Medicine/blob/master/showcase.png)
