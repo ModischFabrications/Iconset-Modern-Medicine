@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Medicine.svg"
-   inkscape:export-filename="D:\Studium\Master INF\S3\GdMed\Iconset\showcase2.png"
+   inkscape:export-filename="D:\Studium\Master INF\S3\GdMed\Iconset\showcase4.png"
    inkscape:export-xdpi="99.999016"
    inkscape:export-ydpi="99.999016">
   <sodipodi:namedview
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28476062"
-     inkscape:cx="1899.6749"
-     inkscape:cy="1538.6569"
+     inkscape:zoom="0.20135617"
+     inkscape:cx="1710.5817"
+     inkscape:cy="1459.2168"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -253,7 +253,8 @@
      transform="translate(0,541.86667)"
      inkscape:label="icons"
      id="layer2"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <text
        id="text6302"
        y="474.13336"
@@ -976,10 +977,10 @@
            sodipodi:nodetypes="cc" />
       </g>
       <rect
-         y="33.866703"
-         x="33.866699"
-         height="203.19995"
-         width="203.19995"
+         y="16.933575"
+         x="16.933571"
+         height="237.06621"
+         width="237.06621"
          id="rect1373-2"
          style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#364e59;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
